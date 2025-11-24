@@ -1,0 +1,6 @@
+{
+  "to_email": "customer2@yourcompany.com",
+  "from_email": "hello@paperco.com",
+  "subject": "Exciting Quantum News & a Special Offer!",
+  "html_email": "Hi there,<br><br>Did you catch the recent breakthroughs in quantum computing hardware? From IBM’s new Loon and Nighthawk chips to Harvard and MIT's neutral-atom systems running for hours, the race for scalable, fault-tolerant quantum technology is getting more exciting every week.<br><br>We’d love to keep supporting your cutting-edge work. By the way, we’re now offering a premium subscription with 10% off all paper orders—a small boost for your next project.<br><br>Stay pioneering!<br><br>—The PaperCo Team"
+}

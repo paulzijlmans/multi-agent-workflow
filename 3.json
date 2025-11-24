@@ -1,0 +1,6 @@
+{
+  "to_email": "customer3@example.com",
+  "from_email": "support@paperco.com",
+  "subject": "A Quick Update and a Special Offer Just for You",
+  "html_email": "<p>Hi there,</p><p>I recently came across Zendesk’s new study on how customers want interactions to feel more seamless and connected—reminding me of our past conversations about personalization. At PaperCo, we're always finding smarter ways to enhance your experience while keeping things meaningful for you.</p><p>By the way, we’ve just launched a premium subscription plan: you’ll get 10% off every order, all year round. It’s our way of saying thanks for being part of our journey!</p><p>Let me know what you’d love to see personalized next. Talk soon!</p><p>Best,<br>The PaperCo Team</p>"
+}

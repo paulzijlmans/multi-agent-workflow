@@ -1,0 +1,6 @@
+{
+  "to_email": "samantha.miller@example.com",
+  "from_email": "hello@paperco.com",
+  "subject": "EVs, Solar Incentives, and Your Exclusive PaperCo Discount",
+  "html_email": "<p>Hi Samantha,</p><p>Hope you’re doing well! Did you see the recent news about the new affordable EV model coming next year and the expanded incentives for home solar setups in Massachusetts? It’s exciting to see so many options to go greener and save.</p><p>By the way, at PaperCo we’ve just launched a premium subscription plan: you’ll get 10% off every paper product order. Thought you’d want to know, in case you’re planning ahead for the holidays or new year!</p><p>Take care,<br/>The PaperCo Team</p>"
+}
